@@ -1,0 +1,9 @@
+#OOP concepts in detail
+
+a = 5
+def func():
+  pass
+type(func)
+
+object
+a = 5
